@@ -68,4 +68,3 @@ while len(open_queue) != 0:
                 open_queue.append(state) 
             # elif searchType == 2:
             #     open_queue.insert(0, state)
-
